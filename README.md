@@ -4,7 +4,9 @@ Augmented Reality for revolution solids. Didactic app for Android smartphones.
 
 This app was developed with Unity-3D and the scripts are coded in C#.
 
-## Quickstart for use
+You can download de Unity3D project from: [this link](https://www.dropbox.com/home/CICATA/SolidosAR%20CICATA-Legaria). The file name is "ARotar(project).unitypackage".
+
+### Quickstart for use
 
 1.- Copy the .apk file to the mobile device with Android operating system.
 
