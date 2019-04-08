@@ -21,3 +21,7 @@ You can download de Unity3D project from: [this link](https://www.dropbox.com/ho
 6.- Targeted the target and you can choose the option to deploy.
 
 7.- With each tap on the screen of the device will be generated the respective solid of revolution.
+
+#### Please cite:
+
+Gómez-Vargas, I., Medel-Esquivel, R., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Lat. Am. J. Phys. Educ. Vol, 4(12), 4303-1.
