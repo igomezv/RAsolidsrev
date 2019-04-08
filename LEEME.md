@@ -26,6 +26,6 @@ En este repositorio se encuentra el apk para utilizar la app, el script principa
 
 Pueden descargar el proyecto de Unity3D [en este link](https://www.dropbox.com/home/CICATA/SolidosAR%20CICATA-Legaria). El nombre del archivo es ***ARotar(project).unitypackage***.
 
-## Por favor, si lo consideras pertinente, cita este trabajo:
+### Por favor, si lo consideras pertinente, cita este trabajo:
 
 *Gómez-Vargas, I., Medel-Esquivel, R., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Lat. Am. J. Phys. Educ. Vol, 4(12), 4303-1.*
