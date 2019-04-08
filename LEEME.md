@@ -6,7 +6,7 @@ Esta app fue desarrollada con Unity3D y los scripts están en C#.
 
 En este repositorio se encuentra el apk para utilizar la app, el script principal de la animación, manuales y artículos relacionados que se originaron a partir de esta app. 
 
-## Instrucciones para el uso de la aplicación de Realidad Aumentada de Sólidos de Revolución:
+## Instrucciones rápidas para el uso de la app de RA:
 
 1.- Copiar el archivo .apk en el dispositivo móvil con sistema operativo Android.
 
