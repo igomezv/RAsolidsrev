@@ -24,4 +24,4 @@ You can download de Unity3D project from: [this link](https://www.dropbox.com/ho
 
 #### Please cite:
 
-Gómez-Vargas, I., Medel-Esquivel, R., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Lat. Am. J. Phys. Educ. Vol, 4(12), 4303-1.
+*Gómez-Vargas, I., Medel-Esquivel, R., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Lat. Am. J. Phys. Educ. Vol, 4(12), 4303-1.*
